@@ -17,12 +17,7 @@ ICON_TEMPLATE_PATHS = [
 # None = весь экран.
 # Лучше потом заменить на область игры:
 # GAME_REGION = {"left": 300, "top": 200, "width": 800, "height": 600}
-GAME_REGION = {
-    "left": 247,
-    "top": 186,
-    "width": 332,
-    "height": 724
-}
+GAME_REGION = None
 
 ICON_THRESHOLD = 0.75
 
