@@ -24,7 +24,7 @@ It compares the current screen image with prepared icon templates and clicks mat
 ```
 game_bot/
 ├── bot.py
-├── region.py
+├── rgion.py
 ├── icon.png
 ├── icon2.png
 └── README.md
