@@ -1,4 +1,4 @@
-# Tik Tok Game Bot
+# Tik Tok Tap Game Bot
 A lightweight computer-vision bot that automatically clicks target icons.
 
 The bot watches a selected area of the screen, detects target icons using image template matching, and clicks them automatically.
